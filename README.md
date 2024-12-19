@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a g
 
 ## 💼 Projects
 
-### [Profile-Pix](https://github.com/YourUsername/Profile-Pix)
+### [Profile-Pix](https://github.com/ankitsh-52/Profile-Pix)
 A feature-rich image-sharing platform with:
 - User Authentication (JWT-based)
 - Role-Based Access Control
@@ -82,9 +82,9 @@ A feature-rich image-sharing platform with:
 ---
 
 ## 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsh-52&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsh-52&layout=compact&theme=radical)
 
 ---
 
